@@ -1,4 +1,5 @@
 題目網址:https://zerojudge.tw/ShowProblem?problemid=a414
+
 題目有說測資可能比較多，所以加上ios::sync_with_stdio(false);以及cin.tie(0);
 
 
